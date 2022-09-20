@@ -8,9 +8,10 @@ A flash card app that asks the user a question. few features were implemented.
 
 ### App Walk-though
 
-[Flash card app](https://user-images.githubusercontent.com/106920964/191150730-7c7e3499-16af-4e56-8e0f-d290dcd99d4e.gif)
+[Flash card app](https://user-images.githubusercontent.com/106920964/191151794-add13b71-3d8b-4233-b07f-36cfdd369706.gif)
 
-<img src="https://user-images.githubusercontent.com/106920964/191150730-7c7e3499-16af-4e56-8e0f-d290dcd99d4e.gif" width=200><br>
+
+<img src= "https://user-images.githubusercontent.com/106920964/191151794-add13b71-3d8b-4233-b07f-36cfdd369706.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
