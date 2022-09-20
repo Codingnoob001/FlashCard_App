@@ -1,19 +1,16 @@
 # viccodepath
 ## Flash Card App
 
-📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
-
 ## Lab 1
 
 ### App Description
-`TODO://` a flash card app that asks the user a question. few features were implemented.
+A flash card app that asks the user a question. few features were implemented.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+[Flash card app](https://user-images.githubusercontent.com/106920964/191150730-7c7e3499-16af-4e56-8e0f-d290dcd99d4e.gif)
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://user-images.githubusercontent.com/106920964/191150730-7c7e3499-16af-4e56-8e0f-d290dcd99d4e.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
