@@ -4,7 +4,7 @@
 ## Lab 1
 
 ### App Description
-A flash card app that asks the user a question. few features were implemented.
+A flash card app, built with kotlin, that asks the user a question and changes color when buttons are clicked.
 
 ### App Walk-though
 
