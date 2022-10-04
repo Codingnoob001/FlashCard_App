@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="AddcardActivity">
+
+    <ImageView
+        android:id="@+id/X_button"
+        android:layout_width="67dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="38dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="38dp"
+        android:src="@drawable/xbutton"/>
+
+    <EditText
+        android:id="@+id/editTextField"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="133dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="20dp"
+        android:hint="Ask a question here"
+        android:inputType="textMultiLine"/>
+
+    <EditText
+        android:id="@+id/editTextField2"
+        android:layout_width="900dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/editTextField"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="57dp"
+        android:layout_marginEnd="11dp"
+        android:layout_marginBottom="20dp"
+        android:hint="Input the answer here"
+        android:inputType="textMultiLine"/>
+
+    <ImageView
+        android:id="@+id/savebutton"
+        android:layout_width="68dp"
+        android:layout_height="95dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="292dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/savebuttonn" />
+    <ImageView
+        android:id="@+id/editbutton"
+        android:layout_width="68dp"
+        android:layout_height="95dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="292dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/editbutton"
+        android:visibility="invisible"/>
+
+</RelativeLayout>
