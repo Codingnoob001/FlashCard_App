@@ -16,7 +16,6 @@ class AddcardActivity : AppCompatActivity() {
         val user_question = findViewById<EditText>(R.id.editTextField)
         val user_answer = findViewById<EditText>(R.id.editTextField2)
         val xbutton = findViewById<ImageView>(R.id.X_button)
-        val editbutton = findViewById<ImageView>(R.id.editbutton)
         xbutton.setOnClickListener{
             val Intent = Intent(this, MainActivity::class.java)
             startActivity(Intent)
@@ -30,10 +29,6 @@ class AddcardActivity : AppCompatActivity() {
             data.putExtra("ANSWER_KEY", answerString)
             setResult(RESULT_OK, data)
             finish()
-        }
-        editbutton.setOnClickListener{
-            val intent = Intent(this, AddcardActivity::class.java)
-            startActivity(intent)
         }
     }
 }

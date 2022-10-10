@@ -61,18 +61,4 @@
         android:layout_marginRight="15dp"
         android:layout_marginBottom="20dp"
         android:src="@drawable/savebuttonn" />
-    <ImageView
-        android:id="@+id/editbutton"
-        android:layout_width="68dp"
-        android:layout_height="95dp"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="50dp"
-        android:layout_marginTop="50dp"
-        android:layout_marginEnd="292dp"
-        android:layout_marginRight="15dp"
-        android:layout_marginBottom="20dp"
-        android:src="@drawable/editbutton"
-        android:visibility="invisible"/>
-
 </RelativeLayout>
