@@ -4,7 +4,7 @@
 
 ## Lab 1
 
-### App Description
+### App Description:
 A flash card app, built with kotlin, that asks the user a question and changes color when buttons are clicked.
 
 ### App Walk-though
@@ -29,7 +29,7 @@ A flash card app, built with kotlin, that asks the user a question and changes c
 
 
 ## Lab 2
-### App Description
+### App Description:
 An improved version of the flashcard app that allows users to create their own flashcards.
 ### App Walk-though
 
@@ -54,8 +54,8 @@ An improved version of the flashcard app that allows users to create their own f
 
 ## Lab 3
 
-### App Description
-`TODO://` A Flashcard app that saves multiple user created cards so that users can revisit the app to review their cards
+### App Description:
+A Flashcard app that saves multiple user created cards so that users can revisit the app to review their cards
 
 ### App Walk-though
 The user creates and deletes a flash card as shown below:
@@ -71,3 +71,23 @@ The user creates and deletes a flash card as shown below:
 - [ ] Flashcards are shown in random order instead of the order they were created in
 - [ ] User can edit a card and see the edit saved when they browse through their deck of cards
 - [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+
+📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+
+## Lab 4
+
+### App Description:
+Improved app with new animation and app icon.
+
+<img src="https://user-images.githubusercontent.com/106920964/197652350-bb02c9c9-aeff-4f3d-b591-002bd4abf685.gif" width=200><br>
+
+## Required
+- [x] User sees a transition animation when going from the main screen to the add card screen.
+- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [x] User sees flashcards animating in / out when the 'next' button is tapped
+
+## Optional
+- [x] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [ ] User sees a celebration animation with confetti when they answer a question correctly
